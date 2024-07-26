@@ -27,9 +27,11 @@
     "@nestjs/platform-express": "^10.0.0",
     "@prisma/client": "^5.16.2",
     "axios": "^1.7.2",
+    "html-to-pdfmake": "^2.5.12",
     "pdfmake": "^0.2.10",
     "reflect-metadata": "^0.2.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "jsdom": "^24.0.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
